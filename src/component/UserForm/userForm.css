@@ -1,0 +1,15 @@
+.user-form-main-container{
+    padding: 20px;
+}
+.error-msg{
+    color: red;
+    
+}
+.country-gender-container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.gender-container{
+    margin-left: 50px !important;
+}
